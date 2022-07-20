@@ -1,0 +1,38 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuardClauses/Throw.cs">
+    <Files>
+      <File FileName="GuardClauses/Abstract/IGuardClause.cs" Line="31" Column="6" />
+      <File FileName="GuardClauses/RuleEngine/RuleBase.cs" Line="2" Column="40" />
+      <File FileName="GuardClauses/RuleEngine/RuleEngine.cs" Line="12" Column="1" />
+      <File FileName="GuardClauses/RuleEngine/Rules/DefaultRule.cs" Line="12" Column="6" />
+      <File FileName="GuardClauses/RuleEngine/Abstract/IRuleEngineBuilder.cs" Line="12" Column="1" />
+      <File FileName="GuardClauses/RuleEngine/Concrete/RuleEngineBuilder.cs" Line="1" Column="14" />
+      <File FileName="GuardClauses/RuleEngine/Concrete/RuleEngineBase.cs" Line="7" Column="35" />
+      <File FileName="GuardClauses/Abstract/IIfElseBlockGuardClause.cs" Line="4" Column="36" />
+      <File FileName="GuardClauses/Abstract/IIfElseBlockGuardClause&lt;T,T1&gt;.cs" Line="10" Column="6" />
+      <File FileName="GuardClauses/Abstract/IGuardClause&lt;T,T1&gt;.cs" Line="1" Column="1" />
+      <File FileName="GuardClauses/Concrete/GuardClause&lt;T&gt;.cs" Line="121" Column="88" />
+      <File FileName="GuardClauses/Concrete/GuardClause&lt;T,T1&gt;.cs" Line="182" Column="6" />
+      <File FileName="GuardClauses/Guard.cs" Line="1" Column="1" />
+      <File FileName="GuardClauses/Throw.cs" Line="11" Column="88" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GuardClauses" expanded="True" selected="True">
+            <Node name="GuardClauses" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>
