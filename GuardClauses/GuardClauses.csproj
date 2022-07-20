@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Abstract\" />
+    <None Remove="Concrete\" />
+    <None Remove="RuleEngine\" />
+    <None Remove="RuleEngine\Rules\" />
+    <None Remove="RuleEngine\Abstract\" />
+    <None Remove="RuleEngine\Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="RuleEngine\" />
+    <Folder Include="RuleEngine\Rules\" />
+    <Folder Include="RuleEngine\Abstract\" />
+    <Folder Include="RuleEngine\Concrete\" />
+  </ItemGroup>
+</Project>

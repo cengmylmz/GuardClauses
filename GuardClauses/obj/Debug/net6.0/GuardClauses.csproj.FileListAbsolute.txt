@@ -1,0 +1,12 @@
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/bin/Debug/net6.0/GuardClauses.deps.json
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/bin/Debug/net6.0/GuardClauses.dll
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/bin/Debug/net6.0/GuardClauses.pdb
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.csproj.AssemblyReference.cache
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.AssemblyInfoInputs.cache
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.AssemblyInfo.cs
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.csproj.CoreCompileInputs.cache
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.dll
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/refint/GuardClauses.dll
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/GuardClauses.pdb
+/Users/muhammetyilmaz/Projects/GuardClauses/GuardClauses/obj/Debug/net6.0/ref/GuardClauses.dll
